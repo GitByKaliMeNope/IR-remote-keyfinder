@@ -1,0 +1,1538 @@
+Filetype: IR signals file
+Version: 1
+#
+name: Cmd 00 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: 00 40 00 00
+#
+name: Cmd 01 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: 01 40 00 00
+#
+name: Cmd 02 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: 02 40 00 00
+#
+name: Cmd 03 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: 03 40 00 00
+#
+name: Cmd 04 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: 04 40 00 00
+#
+name: Cmd 05 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: 05 40 00 00
+#
+name: Cmd 06 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: 06 40 00 00
+#
+name: Cmd 07 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: 07 40 00 00
+#
+name: Cmd 08 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: 08 40 00 00
+#
+name: Cmd 09 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: 09 40 00 00
+#
+name: Cmd 0A 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: 0A 40 00 00
+#
+name: Cmd 0B 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: 0B 40 00 00
+#
+name: Cmd 0C 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: 0C 40 00 00
+#
+name: Cmd 0D 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: 0D 40 00 00
+#
+name: Cmd 0E 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: 0E 40 00 00
+#
+name: Cmd 0F 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: 0F 40 00 00
+#
+name: Cmd 10 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: 10 40 00 00
+#
+name: Cmd 11 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: 11 40 00 00
+#
+name: Cmd 12 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: 12 40 00 00
+#
+name: Cmd 13 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: 13 40 00 00
+#
+name: Cmd 14 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: 14 40 00 00
+#
+name: Cmd 15 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: 15 40 00 00
+#
+name: Cmd 16 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: 16 40 00 00
+#
+name: Cmd 17 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: 17 40 00 00
+#
+name: Cmd 18 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: 18 40 00 00
+#
+name: Cmd 19 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: 19 40 00 00
+#
+name: Cmd 1A 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: 1A 40 00 00
+#
+name: Cmd 1B 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: 1B 40 00 00
+#
+name: Cmd 1C 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: 1C 40 00 00
+#
+name: Cmd 1D 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: 1D 40 00 00
+#
+name: Cmd 1E 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: 1E 40 00 00
+#
+name: Cmd 1F 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: 1F 40 00 00
+#
+name: Cmd 20 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: 20 40 00 00
+#
+name: Cmd 21 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: 21 40 00 00
+#
+name: Cmd 22 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: 22 40 00 00
+#
+name: Cmd 23 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: 23 40 00 00
+#
+name: Cmd 24 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: 24 40 00 00
+#
+name: Cmd 25 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: 25 40 00 00
+#
+name: Cmd 26 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: 26 40 00 00
+#
+name: Cmd 27 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: 27 40 00 00
+#
+name: Cmd 28 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: 28 40 00 00
+#
+name: Cmd 29 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: 29 40 00 00
+#
+name: Cmd 2A 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: 2A 40 00 00
+#
+name: Cmd 2B 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: 2B 40 00 00
+#
+name: Cmd 2C 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: 2C 40 00 00
+#
+name: Cmd 2D 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: 2D 40 00 00
+#
+name: Cmd 2E 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: 2E 40 00 00
+#
+name: Cmd 2F 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: 2F 40 00 00
+#
+name: Cmd 30 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: 30 40 00 00
+#
+name: Cmd 31 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: 31 40 00 00
+#
+name: Cmd 32 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: 32 40 00 00
+#
+name: Cmd 33 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: 33 40 00 00
+#
+name: Cmd 34 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: 34 40 00 00
+#
+name: Cmd 35 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: 35 40 00 00
+#
+name: Cmd 36 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: 36 40 00 00
+#
+name: Cmd 37 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: 37 40 00 00
+#
+name: Cmd 38 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: 38 40 00 00
+#
+name: Cmd 39 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: 39 40 00 00
+#
+name: Cmd 3A 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: 3A 40 00 00
+#
+name: Cmd 3B 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: 3B 40 00 00
+#
+name: Cmd 3C 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: 3C 40 00 00
+#
+name: Cmd 3D 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: 3D 40 00 00
+#
+name: Cmd 3E 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: 3E 40 00 00
+#
+name: Cmd 3F 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: 3F 40 00 00
+#
+name: Cmd 40 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: 40 40 00 00
+#
+name: Cmd 41 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: 41 40 00 00
+#
+name: Cmd 42 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: 42 40 00 00
+#
+name: Cmd 43 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: 43 40 00 00
+#
+name: Cmd 44 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: 44 40 00 00
+#
+name: Cmd 45 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: 45 40 00 00
+#
+name: Cmd 46 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: 46 40 00 00
+#
+name: Cmd 47 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: 47 40 00 00
+#
+name: Cmd 48 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: 48 40 00 00
+#
+name: Cmd 49 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: 49 40 00 00
+#
+name: Cmd 4A 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: 4A 40 00 00
+#
+name: Cmd 4B 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: 4B 40 00 00
+#
+name: Cmd 4C 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: 4C 40 00 00
+#
+name: Cmd 4D 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: 4D 40 00 00
+#
+name: Cmd 4E 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: 4E 40 00 00
+#
+name: Cmd 4F 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: 4F 40 00 00
+#
+name: Cmd 50 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: 50 40 00 00
+#
+name: Cmd 51 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: 51 40 00 00
+#
+name: Cmd 52 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: 52 40 00 00
+#
+name: Cmd 53 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: 53 40 00 00
+#
+name: Cmd 54 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: 54 40 00 00
+#
+name: Cmd 55 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: 55 40 00 00
+#
+name: Cmd 56 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: 56 40 00 00
+#
+name: Cmd 57 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: 57 40 00 00
+#
+name: Cmd 58 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: 58 40 00 00
+#
+name: Cmd 59 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: 59 40 00 00
+#
+name: Cmd 5A 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: 5A 40 00 00
+#
+name: Cmd 5B 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: 5B 40 00 00
+#
+name: Cmd 5C 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: 5C 40 00 00
+#
+name: Cmd 5D 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: 5D 40 00 00
+#
+name: Cmd 5E 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: 5E 40 00 00
+#
+name: Cmd 5F 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: 5F 40 00 00
+#
+name: Cmd 60 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: 60 40 00 00
+#
+name: Cmd 61 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: 61 40 00 00
+#
+name: Cmd 62 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: 62 40 00 00
+#
+name: Cmd 63 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: 63 40 00 00
+#
+name: Cmd 64 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: 64 40 00 00
+#
+name: Cmd 65 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: 65 40 00 00
+#
+name: Cmd 66 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: 66 40 00 00
+#
+name: Cmd 67 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: 67 40 00 00
+#
+name: Cmd 68 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: 68 40 00 00
+#
+name: Cmd 69 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: 69 40 00 00
+#
+name: Cmd 6A 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: 6A 40 00 00
+#
+name: Cmd 6B 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: 6B 40 00 00
+#
+name: Cmd 6C 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: 6C 40 00 00
+#
+name: Cmd 6D 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: 6D 40 00 00
+#
+name: Cmd 6E 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: 6E 40 00 00
+#
+name: Cmd 6F 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: 6F 40 00 00
+#
+name: Cmd 70 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: 70 40 00 00
+#
+name: Cmd 71 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: 71 40 00 00
+#
+name: Cmd 72 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: 72 40 00 00
+#
+name: Cmd 73 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: 73 40 00 00
+#
+name: Cmd 74 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: 74 40 00 00
+#
+name: Cmd 75 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: 75 40 00 00
+#
+name: Cmd 76 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: 76 40 00 00
+#
+name: Cmd 77 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: 77 40 00 00
+#
+name: Cmd 78 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: 78 40 00 00
+#
+name: Cmd 79 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: 79 40 00 00
+#
+name: Cmd 7A 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: 7A 40 00 00
+#
+name: Cmd 7B 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: 7B 40 00 00
+#
+name: Cmd 7C 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: 7C 40 00 00
+#
+name: Cmd 7D 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: 7D 40 00 00
+#
+name: Cmd 7E 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: 7E 40 00 00
+#
+name: Cmd 7F 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: 7F 40 00 00
+#
+name: Cmd 80 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: 80 40 00 00
+#
+name: Cmd 81 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: 81 40 00 00
+#
+name: Cmd 82 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: 82 40 00 00
+#
+name: Cmd 83 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: 83 40 00 00
+#
+name: Cmd 84 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: 84 40 00 00
+#
+name: Cmd 85 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: 85 40 00 00
+#
+name: Cmd 86 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: 86 40 00 00
+#
+name: Cmd 87 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: 87 40 00 00
+#
+name: Cmd 88 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: 88 40 00 00
+#
+name: Cmd 89 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: 89 40 00 00
+#
+name: Cmd 8A 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: 8A 40 00 00
+#
+name: Cmd 8B 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: 8B 40 00 00
+#
+name: Cmd 8C 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: 8C 40 00 00
+#
+name: Cmd 8D 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: 8D 40 00 00
+#
+name: Cmd 8E 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: 8E 40 00 00
+#
+name: Cmd 8F 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: 8F 40 00 00
+#
+name: Cmd 90 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: 90 40 00 00
+#
+name: Cmd 91 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: 91 40 00 00
+#
+name: Cmd 92 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: 92 40 00 00
+#
+name: Cmd 93 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: 93 40 00 00
+#
+name: Cmd 94 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: 94 40 00 00
+#
+name: Cmd 95 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: 95 40 00 00
+#
+name: Cmd 96 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: 96 40 00 00
+#
+name: Cmd 97 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: 97 40 00 00
+#
+name: Cmd 98 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: 98 40 00 00
+#
+name: Cmd 99 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: 99 40 00 00
+#
+name: Cmd 9A 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: 9A 40 00 00
+#
+name: Cmd 9B 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: 9B 40 00 00
+#
+name: Cmd 9C 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: 9C 40 00 00
+#
+name: Cmd 9D 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: 9D 40 00 00
+#
+name: Cmd 9E 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: 9E 40 00 00
+#
+name: Cmd 9F 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: 9F 40 00 00
+#
+name: Cmd A0 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: A0 40 00 00
+#
+name: Cmd A1 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: A1 40 00 00
+#
+name: Cmd A2 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: A2 40 00 00
+#
+name: Cmd A3 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: A3 40 00 00
+#
+name: Cmd A4 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: A4 40 00 00
+#
+name: Cmd A5 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: A5 40 00 00
+#
+name: Cmd A6 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: A6 40 00 00
+#
+name: Cmd A7 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: A7 40 00 00
+#
+name: Cmd A8 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: A8 40 00 00
+#
+name: Cmd A9 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: A9 40 00 00
+#
+name: Cmd AA 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: AA 40 00 00
+#
+name: Cmd AB 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: AB 40 00 00
+#
+name: Cmd AC 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: AC 40 00 00
+#
+name: Cmd AD 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: AD 40 00 00
+#
+name: Cmd AE 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: AE 40 00 00
+#
+name: Cmd AF 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: AF 40 00 00
+#
+name: Cmd B0 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: B0 40 00 00
+#
+name: Cmd B1 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: B1 40 00 00
+#
+name: Cmd B2 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: B2 40 00 00
+#
+name: Cmd B3 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: B3 40 00 00
+#
+name: Cmd B4 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: B4 40 00 00
+#
+name: Cmd B5 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: B5 40 00 00
+#
+name: Cmd B6 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: B6 40 00 00
+#
+name: Cmd B7 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: B7 40 00 00
+#
+name: Cmd B8 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: B8 40 00 00
+#
+name: Cmd B9 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: B9 40 00 00
+#
+name: Cmd BA 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: BA 40 00 00
+#
+name: Cmd BB 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: BB 40 00 00
+#
+name: Cmd BC 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: BC 40 00 00
+#
+name: Cmd BD 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: BD 40 00 00
+#
+name: Cmd BE 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: BE 40 00 00
+#
+name: Cmd BF 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: BF 40 00 00
+#
+name: Cmd C0 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: C0 40 00 00
+#
+name: Cmd C1 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: C1 40 00 00
+#
+name: Cmd C2 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: C2 40 00 00
+#
+name: Cmd C3 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: C3 40 00 00
+#
+name: Cmd C4 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: C4 40 00 00
+#
+name: Cmd C5 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: C5 40 00 00
+#
+name: Cmd C6 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: C6 40 00 00
+#
+name: Cmd C7 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: C7 40 00 00
+#
+name: Cmd C8 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: C8 40 00 00
+#
+name: Cmd C9 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: C9 40 00 00
+#
+name: Cmd CA 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: CA 40 00 00
+#
+name: Cmd CB 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: CB 40 00 00
+#
+name: Cmd CC 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: CC 40 00 00
+#
+name: Cmd CD 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: CD 40 00 00
+#
+name: Cmd CE 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: CE 40 00 00
+#
+name: Cmd CF 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: CF 40 00 00
+#
+name: Cmd D0 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: D0 40 00 00
+#
+name: Cmd D1 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: D1 40 00 00
+#
+name: Cmd D2 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: D2 40 00 00
+#
+name: Cmd D3 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: D3 40 00 00
+#
+name: Cmd D4 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: D4 40 00 00
+#
+name: Cmd D5 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: D5 40 00 00
+#
+name: Cmd D6 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: D6 40 00 00
+#
+name: Cmd D7 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: D7 40 00 00
+#
+name: Cmd D8 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: D8 40 00 00
+#
+name: Cmd D9 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: D9 40 00 00
+#
+name: Cmd DA 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: DA 40 00 00
+#
+name: Cmd DB 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: DB 40 00 00
+#
+name: Cmd DC 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: DC 40 00 00
+#
+name: Cmd DD 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: DD 40 00 00
+#
+name: Cmd DE 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: DE 40 00 00
+#
+name: Cmd DF 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: DF 40 00 00
+#
+name: Cmd E0 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: E0 40 00 00
+#
+name: Cmd E1 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: E1 40 00 00
+#
+name: Cmd E2 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: E2 40 00 00
+#
+name: Cmd E3 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: E3 40 00 00
+#
+name: Cmd E4 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: E4 40 00 00
+#
+name: Cmd E5 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: E5 40 00 00
+#
+name: Cmd E6 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: E6 40 00 00
+#
+name: Cmd E7 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: E7 40 00 00
+#
+name: Cmd E8 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: E8 40 00 00
+#
+name: Cmd E9 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: E9 40 00 00
+#
+name: Cmd EA 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: EA 40 00 00
+#
+name: Cmd EB 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: EB 40 00 00
+#
+name: Cmd EC 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: EC 40 00 00
+#
+name: Cmd ED 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: ED 40 00 00
+#
+name: Cmd EE 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: EE 40 00 00
+#
+name: Cmd EF 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: EF 40 00 00
+#
+name: Cmd F0 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: F0 40 00 00
+#
+name: Cmd F1 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: F1 40 00 00
+#
+name: Cmd F2 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: F2 40 00 00
+#
+name: Cmd F3 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: F3 40 00 00
+#
+name: Cmd F4 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: F4 40 00 00
+#
+name: Cmd F5 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: F5 40 00 00
+#
+name: Cmd F6 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: F6 40 00 00
+#
+name: Cmd F7 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: F7 40 00 00
+#
+name: Cmd F8 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: F8 40 00 00
+#
+name: Cmd F9 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: F9 40 00 00
+#
+name: Cmd FA 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: FA 40 00 00
+#
+name: Cmd FB 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: FB 40 00 00
+#
+name: Cmd FC 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: FC 40 00 00
+#
+name: Cmd FD 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: FD 40 00 00
+#
+name: Cmd FE 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: FE 40 00 00
+#
+name: Cmd FF 40 00 00
+type: parsed
+protocol: NECext
+address: 05 00 00 00
+command: FF 40 00 00
